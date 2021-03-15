@@ -1,0 +1,86 @@
+p{
+    font-family:Arial, Helvetica, sans-serif   
+}
+
+span{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+ul{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#Intestazione{
+    background-color: #4ea0ff;
+    height: 150px;
+    background-image: url("../img/pattern.png");
+}
+
+.logo{
+    width: 300px;
+    height: 100%;
+}
+
+.titolo_articolo{
+    font-size: 70px;
+}
+
+.grigio_mini{
+    color: grey;
+    font-size: 13px;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
+
+.font-mini{
+    font-size: 13px;
+}
+
+.grigio{
+    color: grey;
+}
+
+.azzurro{
+    color: #20a9e5;
+}
+
+table{
+    text-align: left;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.Largherzza_Tabella_background-color{
+    width: 50%;
+    background-color:#b1e5f2
+}
+
+.Colore_Sfondo_Intestazione_tabella{
+    background-color: #20a9e5;
+}
+
+.Colore_Font_Intestazione_tabella{
+    color:white;
+}
+
+.Colore_Sfondo_body_tabella{
+    background-color:#b1e5f2
+}
+
+.Monitor_img{
+    background-image: url("../img/monitor.jpg");
+    width: 312px;
+    height: 208px;
+    font-size: 25px;
+    color: white;
+}
+
+.Grafico_img{
+    background-image: url("../img/graph.jpg");
+    width: 312px;
+    height: 208px;
+    font-size: 25px;
+    color: white;
+}
+
