@@ -10,6 +10,19 @@ ul{
     font-family:Arial, Helvetica, sans-serif
 }
 
+main{
+    width: 70%;
+    margin:auto;
+}
+
+footer{
+    width: 70%;
+    margin:auto;
+ 
+}
+
+
+
 #Intestazione{
     background-color: #4ea0ff;
     height: 150px;
