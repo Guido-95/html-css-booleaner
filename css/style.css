@@ -1,7 +1,3 @@
-body{
-    
-}
-
 
 #Intestazione{
     background-color: #4ea0ff;
@@ -12,11 +8,49 @@ body{
     
     
 }
+p{
+    font-family:Arial, Helvetica, sans-serif   
+}
+span{
+    font-family:Arial, Helvetica, sans-serif
+}
+ul{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.titolo_articolo{
+    font-size: 50px;
+}
+.grey_mini{
+    color: grey;
+    font-size: 13px;
+}
+.evidenziatore{
+    background-color: yellow;
+}
+.font-mini{
+    font-size: 13px;
+}
 
 .logo{
     width: 300px;
     height: 100%;
-   
-   
-    
+}
+
+
+.grey{
+    color: grey;
+}
+
+.blue{
+    color: blue;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: left;
+}
+
+.Largherzza_Tabella{
+    width: 50%;
 }
