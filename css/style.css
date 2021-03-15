@@ -1,31 +1,19 @@
-#Intestazione{
-    background-color: #4ea0ff;
-    height: 150px;
-    background-image: url("../img/pattern.png");
-    background-position: top;
-}
 p{
     font-family:Arial, Helvetica, sans-serif   
 }
+
 span{
     font-family:Arial, Helvetica, sans-serif
 }
+
 ul{
     font-family:Arial, Helvetica, sans-serif
 }
 
-.titolo_articolo{
-    font-size: 50px;
-}
-.grey_mini{
-    color: grey;
-    font-size: 13px;
-}
-.evidenziatore{
-    background-color: yellow;
-}
-.font-mini{
-    font-size: 13px;
+#Intestazione{
+    background-color: #4ea0ff;
+    height: 150px;
+    background-image: url("../img/pattern.png");
 }
 
 .logo{
@@ -33,37 +21,50 @@ ul{
     height: 100%;
 }
 
+.titolo_articolo{
+    font-size: 70px;
+}
 
-.grey{
+.grigio_mini{
+    color: grey;
+    font-size: 13px;
+}
+
+.evidenziatore{
+    background-color: yellow;
+}
+
+.font-mini{
+    font-size: 13px;
+}
+
+.grigio{
     color: grey;
 }
 
-.blue{
-    color: blue;
+.azzurro{
+    color: #20a9e5;
 }
 
 table{
-    
     text-align: left;
     font-family:Arial, Helvetica, sans-serif
 }
-.Largherzza_Tabella_no_background{
-    width: 50%;
-}
-.Largherzza_Tabella{
+
+.Largherzza_Tabella_background-color{
     width: 50%;
     background-color:#b1e5f2
 }
 
-.Colore_Intestazione_tabella{
+.Colore_Sfondo_Intestazione_tabella{
     background-color: #20a9e5;
 }
 
-.Font_Intestazione_tabella{
+.Colore_Font_Intestazione_tabella{
     color:white;
 }
 
-.colore_body_tabella{
+.Colore_Sfondo_body_tabella{
     background-color:#b1e5f2
 }
 
@@ -73,8 +74,6 @@ table{
     height: 208px;
     font-size: 25px;
     color: white;
-    
-   
 }
 
 .Grafico_img{
